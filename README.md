@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas
 - 👀 I’m interested in programation
-- 🌱 I’m currently JS
+- 🌱 I’m currently learning JS
 - 📫 How to reach me lgs.08lucas@gmail.com or +55 (19) 98703-6101
 
 <!---
